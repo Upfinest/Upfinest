@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 ### [Amoniaa](https://amoniaa.com/) 👋
 
 <a href="https://amoniaa.com/">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=amoniaa&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" /><!-- wi*quL3fcV -->
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoniaa&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff" /></a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=amoniaa&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21" /><!-- wi*quL3fcV -->
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amoniaa&hide=html&hide_title=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff" /></a>
 
 ![Amoniaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=amoniaa&hide=issues&show_icons=true)
 
